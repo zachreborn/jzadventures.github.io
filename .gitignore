@@ -25,3 +25,14 @@ go.work
 
 # Hugo lock file
 /.hugo_build.lock
+
+# Hugo executable
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Generated files by Hugo
+/public/
+/resources/_gen/
+/assets/_gen/
+hugo_stats.json
