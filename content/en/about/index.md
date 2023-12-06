@@ -6,6 +6,8 @@ menu:
   main:
     weight: 1
 ---
-{{< figure src="assets/images/engaged_lake.jpeg" title="Moments after Zach popped the question to Jamie" >}}
+{{< figure src="/images/engaged_lake.jpeg" title="Moments after Zach popped the question to Jamie" >}}
+![Engaged](/images/engaged_lake.jpeg)
+{{ $image := .Page.Resources.Get "/images/engaged_lake.jpeg" }}
 
 _Zach and Jamie_ Ipsum lorem dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur.

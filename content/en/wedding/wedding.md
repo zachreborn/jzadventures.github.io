@@ -1,8 +1,20 @@
 ---
-title: "Test Draft"
-date: 2023-11-25T12:53:20-05:00
-draft: true
+title: "Wedding"
+date: 2023-12-05T00:00:00-05:00
+draft: false
 ---
+
+# Overview
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+# Details
+## Location
+Loganville, PA
+
+## Date
+October 5th, 2024
+
+# About
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dictumst vestibulum rhoncus est pellentesque elit. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. Pharetra diam sit amet nisl suscipit adipiscing bibendum est. Eget magna fermentum iaculis eu non diam phasellus vestibulum. Urna cursus eget nunc scelerisque viverra. Ut pharetra sit amet aliquam id diam maecenas ultricies. Auctor augue mauris augue neque gravida in fermentum. Tellus molestie nunc non blandit massa. Nullam vehicula ipsum a arcu cursus. Cursus vitae congue mauris rhoncus aenean vel elit. At erat pellentesque adipiscing commodo elit at imperdiet dui. Curabitur vitae nunc sed velit. Nunc congue nisi vitae suscipit tellus mauris. Massa ultricies mi quis hendrerit dolor. Sed enim ut sem viverra aliquet eget sit amet tellus. Quam adipiscing vitae proin sagittis nisl. Viverra adipiscing at in tellus. Habitant morbi tristique senectus et netus et malesuada fames ac. Porttitor eget dolor morbi non arcu risus quis varius.
 
 Pharetra diam sit amet nisl suscipit. Nunc non blandit massa enim nec dui nunc mattis. Natoque penatibus et magnis dis parturient montes nascetur ridiculus. Malesuada pellentesque elit eget gravida cum sociis natoque penatibus et. Accumsan tortor posuere ac ut consequat semper viverra nam. Vitae purus faucibus ornare suspendisse sed nisi lacus. Laoreet sit amet cursus sit amet dictum sit. Vitae tortor condimentum lacinia quis. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. At tellus at urna condimentum mattis pellentesque id nibh. Sit amet consectetur adipiscing elit duis tristique sollicitudin nibh. Viverra adipiscing at in tellus integer. Aliquet lectus proin nibh nisl condimentum id venenatis. Imperdiet nulla malesuada pellentesque elit eget gravida cum. Velit sed ullamcorper morbi tincidunt ornare massa. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ut venenatis tellus in metus vulputate eu scelerisque felis. Quis auctor elit sed vulputate mi sit amet mauris.
