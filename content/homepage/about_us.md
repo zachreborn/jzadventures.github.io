@@ -22,5 +22,5 @@ Born in York, PA, Jamie has one sibling - Rebecca.
 
 
 #### About Zach
-![Jamie](/images/zach.jpeg)
+![Zach](/images/zach.jpeg)
 Born in Dixon, IL, Zach has one sibling - Cody. Zach has always had a passion for adventure. He grew up camping, hiking, fishing, and exploring the outdoors. As a kid you'd find him walking the woods with friends and a hatchet.
