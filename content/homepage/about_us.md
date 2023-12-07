@@ -18,7 +18,7 @@ Adventure lives in our blood. We love to travel, explore, and experience new thi
 
 #### About Jamie
 ![Jamie](/images/jamie_cinematic.gif)
-Born in <> Jamie has one sibling - Rebecca.
+Born in York, PA, Jamie has one sibling - Rebecca.
 
 
 #### About Zach
