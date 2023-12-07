@@ -4,9 +4,15 @@ weight: 3
 header_menu: true
 ---
 
-![Airstream Adventure](/images/airstream_adventure.jpeg)
+Adventure lives in our blood. We love to travel, explore, and experience new things. We are always looking for the next adventure and we are excited to share a celebration of our lives with you.
 
+![Airstream Adventure](/images/airstream_adventure.jpeg)
+----
+![Ravens Game](/images/jz_ravens.jpeg)
 ----
 
-# Overview
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#### About Jamie
+Born in <> Jamie has one sibling - Rebecca.
+
+#### About Zach
+Born in Dixon, IL, Zach has one sibling - Cody. Zach has always had a passion for adventure. He grew up camping, hiking, fishing, and exploring the outdoors. As a kid you'd find him walking the woods with friends and a hatchet.

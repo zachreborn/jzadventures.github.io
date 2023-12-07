@@ -7,7 +7,7 @@ theme = "hugo-scroll"
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
 # In order to add version information in the page's footer set to true.
-enableGitInfo = true
+# enableGitInfo = true
 
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
