@@ -14,4 +14,4 @@ We're getting married! It's going to be one hell of a good time so you had best 
 Saturday, October 5th, 2024
 ##### Location
 Loganville, PA
-![Venue](/images/venue.jpeg)
+![Venue](images/venue.jpeg)
