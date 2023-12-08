@@ -10,7 +10,7 @@ We're getting married! It's going to be a blast, so you had best **save the date
 Saturday, October 5th, 2024
 
 ##### Location
-Loganville, PA
+Brown's Orchards in Loganville, PA
 ![Venue](images/venue.jpeg)
 
 
