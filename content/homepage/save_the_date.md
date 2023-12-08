@@ -8,7 +8,7 @@ We're getting married! It's going to be one hell of a good time so you had best 
 
 ## Details
 
-{{<icon class="fa fa-calendar">}}&nbsp;[Calendar Event](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGNxNmg4bjZpZ2kyZGRjZ3NyaWxpODdiaTEgemFjaC5yZWJvcm5AbQ&tmsrc=zach.reborn%40gmail.com)
+{{<icon class="fa fa-calendar">}}&nbsp;[Calendar Event](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20241005%2F20241006&details=Jamie%20%26%20Zach%20are%20tying%20the%20knot%20on%20October%205th%2C%202024%20in%20Loganville%2C%20PA.&location=Loganville%2C%20PA&text=Jamie%20%26%20Zach%27s%20Wedding)
 
 ##### Date
 Saturday, October 5th, 2024
