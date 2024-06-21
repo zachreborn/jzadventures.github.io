@@ -18,6 +18,7 @@ Make a reservation via the website or by calling the number below. The links inc
 
 ![Hotel](images/the_yorktowne_hotel.jpeg)
 
+___
 #### Flight Information
 For those who are flying in from out of town, we recommend one of the following airports:
 
