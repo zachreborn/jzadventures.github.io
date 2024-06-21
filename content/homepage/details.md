@@ -1,23 +1,16 @@
 ---
-title: "Save The Date"
+title: "Wedding Details"
 weight: 2
 header_menu: true
 ---
 
-We're getting married! It's going to be a blast, so you had best **save the date!**
+Need the deets for our wedding? We've got you covered below. If you have any questions don't hesitate to reach out and ask Jamie or Zach.
 
 ##### Kids Policy
-We love kids, but we're keeping this event adults only. We hope you'll understand. We want to make sure everyone is able to kick back, relax, and have a good time. Consider it a mini-vacation from the kids!
+We love kids, but we're keeping this event adults only. We hope you'll understand. We want to make sure everyone is able to kick back, relax, and have a good time. Consider it a mini-vacation from your kids.
 
 ##### Date
 Saturday, October 5th, 2024
-
-##### Location
-Brown's Orchards in Loganville, PA
-![Venue](images/venue.jpeg)
-
-
-##### Calendar Event
 
 {{<icon class="fa fa-calendar">}}&nbsp;[Calendar Event - Gmail](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20241005%2F20241006&details=Jamie%20%26%20Zach%20are%20tying%20the%20knot%20on%20October%205th%2C%202024%20in%20Loganville%2C%20PA.&location=Loganville%2C%20PA&text=Jamie%20%26%20Zach%27s%20Wedding)
 
@@ -25,8 +18,7 @@ Brown's Orchards in Loganville, PA
 
 {{<icon class="fa fa-calendar">}}&nbsp;[Calendar Event - File](calendar/jamie_zach_wedding_event.ics)
 
-##### Accommodations
-Hotel Information Here
+##### Location
+{{<icon class="fa fa-map-marker">}} [Brown's Orchards in Loganville, PA](https://maps.app.goo.gl/QMDsuHX1YsMJ7FaH9)
 
-##### Wedding Registry
-Gifts are not necessary, but if you would like to contribute to our honeymoon, we have a [Honeyfund](https://www.honeyfund.com/wedding/jamieandzach).
+![Venue](images/venue.jpeg)

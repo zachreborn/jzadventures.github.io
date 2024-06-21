@@ -4,4 +4,8 @@ weight: 1
 header_menu: true
 ---
 
-We're so excited for you to join us on our special day. Please RSVP.
+Let's make it official, get on in here.
+
+Please [RSVP](https://surveyhere) by August 2nd, 2024.
+
+![RSVP](images/rsvp.png)

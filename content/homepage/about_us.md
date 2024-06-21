@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-weight: 4
+weight: 7
 header_menu: true
 ---
 
