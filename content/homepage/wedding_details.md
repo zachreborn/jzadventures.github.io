@@ -1,6 +1,6 @@
 ---
 title: "Save The Date"
-weight: 1
+weight: 2
 header_menu: true
 ---
 
@@ -21,3 +21,9 @@ Brown's Orchards in Loganville, PA
 {{<icon class="fa fa-calendar">}}&nbsp;[Calendar Event - O365](https://outlook.office.com/calendar/0/action/compose?allday=true&body=Jamie%20%26%20Zach%20are%20tying%20the%20knot%20on%20October%205th%2C%202024%20in%20Loganville%2C%20PA.&enddt=2024-10-06T18%3A45%3A00&location=Loganville%2C%20PA&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2024-10-05T18%3A45%3A00&subject=Jamie%20%26%20Zach%27s%20Wedding)
 
 {{<icon class="fa fa-calendar">}}&nbsp;[Calendar Event - File](calendar/jamie_zach_wedding_event.ics)
+
+##### Accommodations
+Hotel Information Here
+
+##### Wedding Registry
+Gifts are not necessary, but if you would like to contribute to our honeymoon, we have a [Honeyfund](https://www.honeyfund.com/wedding/jamieandzach).
