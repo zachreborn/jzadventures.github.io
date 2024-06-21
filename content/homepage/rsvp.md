@@ -6,6 +6,6 @@ header_menu: true
 
 Let's make it official, get on in here.
 
-Please [RSVP](https://surveyhere) by August 2nd, 2024.
+Please [RSVP](https://ogaiwdw42bp.typeform.com/to/eWHX7lVO) by August 2nd, 2024.
 
 ![RSVP](images/rsvp.jpeg)

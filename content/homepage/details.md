@@ -9,7 +9,7 @@ ___
 
 #### Adults Only
 {{<icon class="fa fa-ban">}}&nbsp;
-We love kids, but we're keeping this event adults only. We hope you'll understand. We would love to give parents a night off to celebrate and relax with us.
+We love kids, but we're keeping this event adults only. We hope you'll understand.
 ___
 
 #### Date
