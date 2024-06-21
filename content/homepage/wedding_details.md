@@ -6,6 +6,9 @@ header_menu: true
 
 We're getting married! It's going to be a blast, so you had best **save the date!**
 
+##### Kids Policy
+We love kids, but we're keeping this event adults only. We hope you'll understand. We want to make sure everyone is able to kick back, relax, and have a good time. Consider it a mini-vacation from the kids!
+
 ##### Date
 Saturday, October 5th, 2024
 
