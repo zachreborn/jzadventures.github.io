@@ -25,4 +25,4 @@ ___
 #### Location
 {{<icon class="fa fa-map-marker">}} [Brown's Orchards & Farm Market in Loganville, PA](https://maps.app.goo.gl/QMDsuHX1YsMJ7FaH9)
 
-![Venue](images/venue.jpeg)
+[![The Yorktowne Hotel at night as seen from the corner.](images/venue.jpeg)](https://maps.app.goo.gl/QMDsuHX1YsMJ7FaH9)
