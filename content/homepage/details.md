@@ -12,8 +12,8 @@ ___
 We love kids, but we're keeping this event adults only. We hope you'll understand.
 ___
 
-#### Date
-Saturday, October 5th, 2024
+#### Date & Time
+Saturday, October 5th, 2024 at 3:00 PM
 
 {{<icon class="fa fa-calendar">}}&nbsp;[Calendar Event - Gmail](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20241005%2F20241006&details=Jamie%20%26%20Zach%20are%20tying%20the%20knot%20on%20October%205th%2C%202024%20in%20Loganville%2C%20PA.&location=Loganville%2C%20PA&text=Jamie%20%26%20Zach%27s%20Wedding)
 
