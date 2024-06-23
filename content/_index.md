@@ -9,8 +9,8 @@ header_use_video: false
 # header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "We're Engaged!"
-header_subheadline: "We hope you'll join us on our wedding day!"
+header_headline: "Nash / Hill Wedding"
+header_subheadline: "Excited to celebrate with you!"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
