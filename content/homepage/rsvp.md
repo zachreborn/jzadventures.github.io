@@ -8,4 +8,4 @@ Let's make it official, get on in here.
 
 Please [RSVP](https://ogaiwdw42bp.typeform.com/to/eWHX7lVO) by August 2nd, 2024.
 
-![RSVP](images/rsvp.jpeg)
+[![A sign up sheet in an apple crate full of apples with an apple orchard in the background.](images/rsvp.jpeg)](https://ogaiwdw42bp.typeform.com/to/eWHX7lVO)
