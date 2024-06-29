@@ -4,12 +4,12 @@ weight: 2
 header_menu: true
 ---
 
-Need the deets for our wedding? We've got you covered below. If you have any questions don't hesitate to reach out and ask Jamie or Zach.
+Need the deets for our wedding? We've got you covered below. If you have any questions, don't hesitate to reach out and ask Jamie or Zach.
 ___
 
 #### Adults Only
 {{<icon class="fa fa-ban">}}&nbsp;
-We love kids, but we're keeping this event adults only. We hope you'll understand.
+We love kids, but we're keeping this event adults-only. We hope you'll understand.
 ___
 
 #### Date & Time
