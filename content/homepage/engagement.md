@@ -4,7 +4,7 @@ weight: 6
 header_menu: true
 ---
 
-Want the juicy details about our engagement? You've come to the right place! Prepare yourself for a tail of love, adventure, and a little bit of luck.
+Want the juicy details about our engagement? You've come to the right place! Prepare yourself for a tale of love, adventure, and a little bit of luck.
 
 ----
 
