@@ -1,6 +1,6 @@
 ---
 title: "Accommodations"
-weight: 4
+weight: 3
 header_menu: true
 ---
 
