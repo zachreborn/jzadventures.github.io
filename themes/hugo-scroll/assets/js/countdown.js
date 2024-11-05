@@ -14,10 +14,11 @@ function updateCountdown() {
 	countdownElement.innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s `;
 
 	// When countdown finishes, display a message
-	if (difference < 0) {
+	// Remove the following if statement if you don't want a message displayed after the countdown finishes
+	/* if (difference < 0) {
 		clearInterval(interval);
 		countdownElement.innerHTML = "The wedding has started. We're hitched!";
-	}
+	} */
 }
 
 // Update the countdown every second
