@@ -1,10 +1,14 @@
 ---
-title: "Wedding Details"
+title: "Thank You!"
 weight: 1
 header_menu: true
 ---
 
-Need the deets for our wedding? We've got you covered below. If you have any questions, don't hesitate to reach out and ask Jamie or Zach.
+Thank you all for sharing our special day with us! We are so grateful for the love and support we've received from our family and friends.
+
+{{<icon class="fa fa-heart">}}&nbsp;Jamie & Zach
+
+[![A bride and groom holding hands and walking through a field of flowers.](images/bride_groom_field.jpeg)](images/bride_groom_field.jpeg)
 ___
 
 #### Adults Only
